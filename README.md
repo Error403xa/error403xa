@@ -71,6 +71,10 @@
 
 [![Email](https://img.shields.io/badge/Email-Error403x%40gamil.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Error403x@gamil.com)
 
+[![Session](https://img.shields.io/badge/Session-057c7960990d0a91d170c1e81b3b2ad92ebdcc330faadd7666ff65f95c991e1d42-00B400?style=for-the-badge)]()
+
+[![SimpleX](https://img.shields.io/badge/SimpleX-Connect-5865F2?style=for-the-badge)](https://smp10.simplex.im/a#oC9tM7xU2FN_qLHyWhStG536xQesIvuP4WPbGNrsUKw)
+
 ---
 
-⭐️ 来自 [Error403x](https://github.com/Error403x) 
+⭐️ 来自 [Error403x](https://github.com/Error403x)
