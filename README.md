@@ -19,26 +19,34 @@
 - 🔭 正在折腾： `Docker` · `Go` 
 - 🌱 学习方向：系统底层、跨平台开发、安卓开发  
 - 💬 聊聊：前后端、渗透测试  
-- 📫 联系我：**Error403x@gamil.com**  
+- 📫 联系我：**Error403x@gmail.com**  
 - ⚡ 折腾内核
 
 ---
 
 ## 🛠️ 技术栈 · Tech Stack
 
-### 💻 语言 / 工具
+### 💻 主要编程语言
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧩 其他语言
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### 🛠️ 工具与框架
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🐧 操作系统 / 环境
 
@@ -69,7 +77,7 @@
 
 ## 🌐 与我联系
 
-[![Email](https://img.shields.io/badge/Email-Error403x%40gamil.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Error403x@gamil.com)
+[![Email](https://img.shields.io/badge/Email-Error403x%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Error403x@gmail.com)
 
 [![Session](https://img.shields.io/badge/Session-057c7960990d0a91d170c1e81b3b2ad92ebdcc330faadd7666ff65f95c991e1d42-00B400?style=for-the-badge)]()
 
