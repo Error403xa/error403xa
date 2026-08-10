@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=我与我，周旋久，宁作我;Error403x)](https://git.io/typing-svg)
 
-[![Profile views](https://komarev.com/ghpvc/?username=Error403x&color=blue&style=flat-square)](https://github.com/Error403x)
-[![GitHub followers](https://img.shields.io/github/followers/Error403x?label=Follow&style=social)](https://github.com/Error403x)
+[![Profile views](https://komarev.com/ghpvc/?username=Error403x&color=blue&style=flat-square)](https://github.com/Error403xa)
+[![GitHub followers](https://img.shields.io/github/followers/Error403x?label=Follow&style=social)](https://github.com/Error403xa)
 
 </div>
 
