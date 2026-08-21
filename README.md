@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=30\&pause=1000\&color=00C4FF\&center=true\&vCenter=true\&width=600\&lines=我与我，周旋久，宁作我;Error403x)](https://git.io/typing-svg)
 
-[![Profile views](https://komarev.com/ghpvc/?username=Error403x\&color=blue\&style=flat-square)](https://github.com/Error403xa)
-[![GitHub followers](https://img.shields.io/github/followers/Error403x?label=Follow\&style=social)](https://github.com/Error403xa)
+[![Profile views](https://komarev.com/ghpvc/?username=Error403xa\&color=blue\&style=flat-square)](https://github.com/Error403xa)
+[![GitHub followers](https://img.shields.io/github/followers/Error403xa?label=Follow\&style=social)](https://github.com/Error403xa)
 
 </div>
 
@@ -46,7 +46,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
@@ -65,21 +65,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Error403x&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error403x&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-## 🏆 奖杯墙
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Error403x&theme=onedark&column=7&no-frame=true" alt="trophy" />
-</div>
-
----
-
 ## 🌐 与我联系
 
 [![Email](https://img.shields.io/badge/Email-Error403x%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Error403x@gmail.com)
@@ -90,4 +75,4 @@
 
 ---
 
-⭐️ 来自 [Error403x](https://github.com/Error403x)
+⭐️ 来自 [Error403x](https://github.com/Error403xa)
