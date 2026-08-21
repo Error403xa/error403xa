@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm **Error403x**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=我与我，周旋久，宁作我;Error403x)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=30\&pause=1000\&color=00C4FF\&center=true\&vCenter=true\&width=600\&lines=我与我，周旋久，宁作我;Error403x)](https://git.io/typing-svg)
 
-[![Profile views](https://komarev.com/ghpvc/?username=Error403x&color=blue&style=flat-square)](https://github.com/Error403xa)
-[![GitHub followers](https://img.shields.io/github/followers/Error403x?label=Follow&style=social)](https://github.com/Error403xa)
+[![Profile views](https://komarev.com/ghpvc/?username=Error403x\&color=blue\&style=flat-square)](https://github.com/Error403xa)
+[![GitHub followers](https://img.shields.io/github/followers/Error403x?label=Follow\&style=social)](https://github.com/Error403xa)
 
 </div>
 
@@ -13,14 +13,14 @@
 
 ## 🧑‍💻 关于我 · About Me
 
-> **Mita**  
+> **Mita**
 > 一个开发者
 
-- 🔭 正在折腾： `Docker` · `Go` 
-- 🌱 学习方向：系统底层、跨平台开发、安卓开发  
-- 💬 聊聊：后端/渗透测试  
-- 📫 联系我：**Error403x@gmail.com**  
-- ⚡ 折腾内核
+* 🔭 正在折腾： `Docker` · `Go`
+* 🌱 学习方向：系统底层、跨平台开发、安卓开发
+* 💬 聊聊：后端/渗透测试
+* 📫 联系我：**[Error403x@gmail.com](mailto:Error403x@gmail.com)**
+* ⚡ 折腾内核
 
 ---
 
@@ -28,37 +28,40 @@
 
 ### 💻 主要编程语言
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 其他语言
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### 🛠️ 工具与框架
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ### 🐧 操作系统 / 环境
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=arch-linux\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Kali NetHunter](https://img.shields.io/badge/Kali_NetHunter-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![ANDRAX](https://img.shields.io/badge/ANDRAX-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge\&logo=debian\&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge\&logo=centos\&logoColor=white)
 
 ---
 
@@ -79,7 +82,7 @@
 
 ## 🌐 与我联系
 
-[![Email](https://img.shields.io/badge/Email-Error403x%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Error403x@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Error403x%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Error403x@gmail.com)
 
 [![Session](https://img.shields.io/badge/Session-057c7960990d0a91d170c1e81b3b2ad92ebdcc330faadd7666ff65f95c991e1d42-00B400?style=for-the-badge)]()
 
