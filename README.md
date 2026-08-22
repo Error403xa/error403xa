@@ -18,7 +18,7 @@
 
 * 🔭 正在折腾： `Docker` · `Go`
 * 🌱 学习方向：系统底层、跨平台开发、安卓开发
-* 💬 聊聊：后端/渗透测试
+* 💬 聊聊：后端/渗透
 * 📫 联系我：**[Error403x@gmail.com](mailto:Error403x@gmail.com)**
 * ⚡ 折腾内核
 
@@ -32,13 +32,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 🛐其他语言
+### 🛐 其他语言
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge\&logo=perl\&logoColor=white)
 
 ### 🛠️ 工具与框架
 
